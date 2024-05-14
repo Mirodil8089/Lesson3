@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popins' sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background: #ffffff;
+}
+
+.card1 .text{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.card1 .text1{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 150px;
+}
+
+.card2{
+    margin-left: 100px;
+    width: 900px;
+    height: 500px;
+    margin-top: 200px;
+    position: absolute;
+    background: #bdbdbd;
+}
+
+.card3{
+    width: 600px;
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background: #fff;
+}
+
+.card3 .text2{
+    margin-left: 50px;
+}
+
+.card3 .text3{
+    margin-left: 180px;
+    color: #bdbdbd;
+    margin-top: -25px;
+}
+
+.card3 .icon{
+    width: 200px;
+    height: 300px;
+    font-size: 30px;
+    margin-left: 550px;
+    position: absolute;
+    margin-top: -15px;
+}
+
+.card3 .icon1{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    font-size: 20px;
+    margin-top: 23px;
+    margin-left: 50px;
+}
+
+.text4{
+    margin-left: 100px;
+    color: #bdbdbd;
+    margin-top: 20px;
+}
+
+.card3 .chiziq{
+    margin-top: 25px;
+}
+
+.card4 .text5{
+    color: #bdbdbd;
+    margin-top:20px;
+    margin-left: 50px;
+}
+
+.card4 .text6{
+    margin-top: 25px;
+    margin-left: 100px;
+    position: absolute;
+    color: #777676;
+}
+
+.card4 .text7{
+    margin-left: 430px;
+    margin-top: 20px;
+    position: absolute;
+    color: #bdbdbd;
+}
+
+.card4 .icon2{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.card4 .text8{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    color: #777676;
+}
+
+.card4 .text9{
+    margin-left: 430px;
+    margin-top: 100px;
+    position: absolute;
+    color: #bdbdbd;
+}
+
+.card4 .icon3{
+    font-size: 30px;
+    margin-top: 95px;
+    position: absolute;
+    margin-left: 50px;
+}
